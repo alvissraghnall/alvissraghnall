@@ -87,3 +87,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvissraghnall&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&background=DD1D28)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvissraghnall&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+  src="https://github.com/alvissraghnall/alvissraghnall/blob/main/images/stat.svg"
+  alt="Alviss Raghnall WakaTime Activity"
+/>
+
